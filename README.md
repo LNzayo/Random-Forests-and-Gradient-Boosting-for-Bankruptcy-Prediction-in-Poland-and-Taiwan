@@ -1,0 +1,2 @@
+# Random-Forests-and-Gradient-Boosting-for-Bankruptcy-Prediction-in-Poland-and-Taiwan
+This project compares **Random Forest** and **Gradient Boosting** models for predicting corporate bankruptcy using financial data from Poland and Taiwan. It includes data preprocessing, handling class imbalance, hyperparameter tuning, model evaluation with ROC-AUC and other metrics, and saving the best-performing model using Scikit-learn.
